@@ -1,0 +1,1 @@
+team_b_namespace_name = "team_b"
