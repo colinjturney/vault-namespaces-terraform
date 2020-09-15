@@ -1,0 +1,6 @@
+license*
+**/.terraform/*
+.DS_Store
+vault.log
+vault.pid
+terraform.tfstate*
